@@ -10,3 +10,6 @@ MAX6675
 
 5v
 SO, CS and SCK need to match in code to read correctly.
+Currently: 
+Pins 13, 12 and 10.
+
